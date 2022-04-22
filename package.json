@@ -14,7 +14,7 @@
     "console.table": "^0.10.0",
     "date-fns": "^1.29.0",
     "gmail-send": "^1.2.14",
-    "nconf": "^0.10.0",
+    "nconf": "^0.11.4",
     "object.map": "^1.0.1",
     "prompt-confirm": "^2.0.4",
     "prompts": "^2.1.0",
